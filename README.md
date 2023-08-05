@@ -82,6 +82,22 @@
 
 ---
 
+### DotENV
+
+  Suporte para arquivos .env, permitindo que o VSCode reconheça as variáveis de ambiente.
+
+  [Instalar](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+
+---
+
+### Auto Rename Tag
+
+  Renomeia a tag de abertura e fechamento automaticamente (HTML e JSX).
+
+  [Instalar](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+---
+
 ## My VSCode Style
 
   Color Theme: [Rosé Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
