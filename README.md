@@ -4,7 +4,7 @@
 
 ## God tier
 
-  [<img src="https://vscodevim.gallerycdn.vsassets.io/extensions/vscodevim/vim/1.25.2/1677732062761/Microsoft.VisualStudio.Services.Icons.Default" alt="vim" width=30 />](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim){:target="_blank"}
+  [<img src="https://vscodevim.gallerycdn.vsassets.io/extensions/vscodevim/vim/1.25.2/1677732062761/Microsoft.VisualStudio.Services.Icons.Default" alt="vim" width=30 />](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
 ## Geral
 
@@ -14,7 +14,7 @@ Extensões para melhorar a produtividade e organização do projeto.
 
   Fornece uma interface gráfica para o Git, permitindo visualizar as branches, commits, etc.
 
-  [Instalar](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph){:target="_blank"}
+  [Instalar](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ---
 
