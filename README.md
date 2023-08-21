@@ -2,6 +2,10 @@
 
   Neste repositório, você encontrará uma lista de extensões que utilizo no VSCode.
 
+## God tier
+
+  [<img src="https://vscodevim.gallerycdn.vsassets.io/extensions/vscodevim/vim/1.25.2/1677732062761/Microsoft.VisualStudio.Services.Icons.Default" alt="vim" width=30 />](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
 ## Geral
 
 Extensões para melhorar a produtividade e organização do projeto.
