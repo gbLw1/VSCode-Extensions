@@ -70,7 +70,7 @@ Extensões para melhorar a produtividade e organização do projeto.
 
 ---
 
-### 2. ES7+ React/Reduz/GraphQL/React-Native Snippets
+### 2. ES7+ React/Redux/React-Native snippets
 
   Fornece atalhos para criar componentes, funções, etc.
 
