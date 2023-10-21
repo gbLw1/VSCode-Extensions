@@ -1,10 +1,9 @@
 # VSCode Extensions
 
-  Neste repositório, você encontrará uma lista de extensões que utilizo no VSCode.
+## Really?
 
-## God tier
-
-  [<img src="https://vscodevim.gallerycdn.vsassets.io/extensions/vscodevim/vim/1.25.2/1677732062761/Microsoft.VisualStudio.Services.Icons.Default" alt="vim" width=30 />](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+1. uninstall vscode
+2. <img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" alt="neovim" width=40 />
 
 ## Geral
 
