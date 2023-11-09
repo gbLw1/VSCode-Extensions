@@ -3,7 +3,7 @@
 ## Really?
 
 1. uninstall vscode
-2. <img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" alt="neovim" width=40 />
+2. <a href="https://neovim.io/"><img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" alt="neovim" width=40 /></a>
 
 ## Geral
 
